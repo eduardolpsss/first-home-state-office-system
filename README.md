@@ -1,5 +1,5 @@
 # myFirstHomeStateOfficeSystem
-The Minha Primeira Casa project is a Java SE program in order to make things easier in a real estate office.
+The My First Home project is a Java SE program in order to make things easier in a real estate office, through it you can register properties, users and sellers, and the program provides a complete tracking platform.
 
 <br>
 
